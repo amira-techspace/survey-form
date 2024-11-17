@@ -8,11 +8,19 @@ header {
 }
 
 main {
+    background-color: blanchedalmond;
     width: 80%;
     max-width: 500px;
-     margin: auto;
+    margin: auto;
+    line-height: 2rem;
+}
+
+fieldset {
+    border: none;
 }
 
 button {
-    margin: auto;
+    /* Change display to block to apply margin to center align the button */
+    display: block;
+    margin: 1rem auto;
 }
