@@ -1,6 +1,8 @@
 # survey-form
 ## Description
 This is a project from the [freeCodeCamp](https://www.freecodecamp.org) website. This is one of the "Responsive Web Design" certificate's required projects.
+* [Click here](https://amira-techspace.github.io/survey-form) to visit the working demo page.
+
 Below are the project details.
 
 ## Build a Survey Form
